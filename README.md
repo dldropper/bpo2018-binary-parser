@@ -1,6 +1,16 @@
 # bpo2018-binary-parser
 The level data for Bad Piggies Online 2018 is stored in two binary files. This tool is used for extracting and rebuilding them.
 
+## Getting the binary files
+
+1. Open the Bad Piggies Online 2018 .swf file in JPEXS flash decompiler.
+
+2. select the "DefineBinaryData" File with chid 8
+
+3. click Export file to... and save the file to your working folder
+
+4. repeat with the chid 9 file
+
 Expected directory layout:
 
 working_folder/
