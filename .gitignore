@@ -1,0 +1,12 @@
+# Game data files (Rovio copyright - do not distribute)
+*.bin
+*.zip
+publish/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
